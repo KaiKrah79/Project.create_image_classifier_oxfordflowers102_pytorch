@@ -14,6 +14,12 @@ There are the following files to use:
   <li>cat_to_name.json: This file includes the class names for the flowers and the corresponding class numbers. </li>
 </ul>
 
+You need the flowers dataset as follows:
+/flowers/train/xx/yy.jpg
+/flowers/test/xx/yy.jpg
+/flowers/valid/xx/yy.jpg
+with xx as the categorical number of the flowers and yy as the filenames of the flowers.
+
 ## Acknowledgements ##
 This project was my final project at the Udacity Nanodegree program "AI Programming with Python". I am super thankful for this experience and proud to be certified with this nanodegree program.
 
